@@ -1,7 +1,7 @@
 # Hi, hello world! 🥝
 
 Name's Krzysztof! 
-I'm a second year IT student currently fertilising my Python and C++ skill trees and getting to know with machine learning. 
+I'm a second year IT student currently fertilising my Python and C++ skill trees alongside with getting to know with machine learning. 
 I'm grasped by technologies and workflows such as  Jira, Git, scrum and kanban. What got me hooked on IT? Why, game development, obviously! 
 
 ## Skills
