@@ -5,17 +5,17 @@ I'm a second year IT student currently fertilising my Python and C++ skill trees
 I'm grasped by technologies and workflows such as  Jira, Git, scrum and kanban. What got me hooked on IT? Why, game development, obviously! 
 
 ## Skills
-- C++
 - Python
+- C++
 - Git/GitHub
 - Unreal Engine
 - Unity
 
 ## Ongoing projects
 Im currently working on:
-- Machine learning-oriented project
-- Unreal Engine 5 dreamcore-stylised horror game
-- Data Structures & Algorithms class assignment
+- JavaScript web game for University of Lodz
+- [Random film proposing programme](https://github.com/NakerTheFirst/filmPicker)
+- [Practical Algorythmics assignments](https://github.com/NakerTheFirst/Practical-Algorythmics)
 
 ## Tools & workspaces
 - CLion
