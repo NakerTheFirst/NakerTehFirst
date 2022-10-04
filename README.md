@@ -15,7 +15,7 @@ I'm grasped by technologies and workflows such as Jira, Git, scrum and kanban du
 
 ## Ongoing projects
 Im currently working on:
-- JavaScript web game for University of Lodz
+- [JavaScript web game for University of Lodz](https://github.com/sawolej/sawolej.github.io)
 - [Random film proposing programme](https://github.com/NakerTheFirst/filmPicker)
 - [Practical Algorythmics assignments](https://github.com/NakerTheFirst/Practical-Algorythmics)
 
