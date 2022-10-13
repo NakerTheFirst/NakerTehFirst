@@ -6,12 +6,13 @@ I love working with people and engaging in group projects - feel free to browse 
 
 ## Tech stack
 - Python
-- JavaScript
-- HTML & CSS
+- JavaScript (ES6)
+- CSS3
+- HTML5 
 - C++
-- Git/GitHub
+- Git
 - Linux
-- Unreal Engine
+- Unreal Engine 5
 - Unity
 
 ## Ongoing projects
