@@ -1,15 +1,16 @@
 # Hi, hello world! 🥝
 
 Name's Krzysztof! 
-I'm a second year IT student currently focused on web development. HTML, CSS & JS take up most of my attention, but I also maintain healthy relationship with Python. 
-I'm grasped by technologies and workflows such as Jira, Git, scrum and kanban due to their endless possibilities and potential. What got me hooked on IT? Games and game development!
+I'm a second year CS student currently focused on web development. HTML, CSS & JS take up most of my attention, but I also maintain healthy relationship with Python. 
+I love working with people and engaging in group projects - feel free to browse my repositories, most of the projects are hosted. Now what got me hooked on IT? Games and game development!
 
 ## Tech stack
 - Python
-- C++
 - JavaScript
 - HTML & CSS
+- C++
 - Git/GitHub
+- Linux
 - Unreal Engine
 - Unity
 
@@ -19,14 +20,10 @@ Im currently working on:
 - [Random film proposing programme](https://github.com/NakerTheFirst/filmPicker)
 - [Practical Algorythmics assignments](https://github.com/NakerTheFirst/Practical-Algorythmics)
 
-## Future focus
-- Django
-- MongoDB
-
 ## Tools & workspaces
 - PyCharm
-- CLion
 - Visual Studio Code
+- CLion
 - Unreal Engine 5
-- Unity ([a sample project](https://play.unity.com/mg/other/webgl-builds-148175))
+- Unity 
 - Figma
