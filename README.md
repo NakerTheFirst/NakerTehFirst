@@ -18,7 +18,6 @@ I love working with people and engaging in group projects - feel free to browse 
 Im currently working on:
 - [JavaScript web game for University of Lodz](https://github.com/sawolej/sawolej.github.io)
 - [Random film proposing programme](https://github.com/NakerTheFirst/filmPicker)
-- [Practical Algorythmics assignments](https://github.com/NakerTheFirst/Practical-Algorythmics)
 
 ## Tools & workspaces
 - PyCharm
