@@ -5,10 +5,10 @@ I'm a second year CS student currently focused on web development. HTML, CSS & J
 I love working with people and engaging in group projects - feel free to browse my repositories, most of the projects are hosted. Now what got me hooked on IT? Games and game development!
 
 ## Tech stack
-- Python
 - JavaScript (ES6)
 - CSS3
-- HTML5 
+- HTML5
+- Python
 - C++
 - Git
 - Linux
