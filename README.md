@@ -10,6 +10,7 @@ I love working with people and engaging in group projects - feel free to browse 
 - HTML5
 - Python
 - C++
+- SQL
 - Git
 - Linux
 - Unreal Engine 5
