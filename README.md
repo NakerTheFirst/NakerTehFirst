@@ -19,8 +19,8 @@ I love working with people and engaging in group projects - feel free to browse 
 
 ## Ongoing projects
 Im currently working on:
-- [Python simulation on how much one can improve his chess.com ranking in 90 days](https://github.com/NakerTheFirst/Chess-Y2K)
-- [TypeScript web game for University of Lodz](https://github.com/sawolej/sawolej.github.io)
+- [Conway's Game of Life implementation with GUI and OOP focus](https://github.com/NakerTheFirst/Game-of-life)
+- Personal project yet to be disclosed
 
 ## Tools & workspaces
 - PyCharm
