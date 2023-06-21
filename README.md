@@ -18,14 +18,12 @@ I love working with people and engaging in group projects - feel free to browse 
 - Unity
 
 ## Ongoing projects
-Im currently working on:
-- [Conway's Game of Life implementation with GUI and OOP focus](https://github.com/NakerTheFirst/Game-of-life)
 - Personal project yet to be disclosed
 
 ## Tools & workspaces
 - PyCharm
 - Visual Studio Code
 - CLion
+- Figma
 - Unreal Engine 5
 - Unity 
-- Figma
