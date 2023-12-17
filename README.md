@@ -13,17 +13,7 @@ I love working with people and engaging in group projects - feel free to browse 
 - C++
 - SQL
 - Git
+- Figma
 - Linux
 - Unreal Engine 5
 - Unity
-
-## Ongoing projects
-- Personal project yet to be disclosed
-
-## Tools & workspaces
-- PyCharm
-- Visual Studio Code
-- CLion
-- Figma
-- Unreal Engine 5
-- Unity 
