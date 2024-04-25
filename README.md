@@ -10,12 +10,13 @@ Highlight of a selected skill of mine? Emphasis on code readability and organist
 - numpy
 - pytorch
 - scikit-learn
+- seaborn
+- SQL
 - JavaScript (ES6)
 - TypeScript
 - CSS3
 - HTML5
 - C++
-- SQL
 - Git
 - Figma
 - Linux
